@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Sohaib Ahmad"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,44 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Computer Science Ph.D. student at the University of Massachusetts, Amherst working under the supervision of [Prof. Ramesh Sitaraman](https://groups.cs.umass.edu/ramesh/) and [Prof. Hui Guan](https://guanh01.github.io/). My research lies at the intersection of systems and machine learning: I use machine learning to improve the performance of computer systems, and use my systems knowledge to improve the performance of machine learning algorithms. I build theoretical models to represent distributed data processing systems, and use the models to improve the performance and efficiency of those systems.
 
-A data-driven personal website
+I also collaborate with [Prof. Abhishek Chandra](https://www-users.cs.umn.edu/~chandra/).
+
+You can find my resume [here](https://drive.google.com/file/d/1m_dPMSew2gCv2PwIa7aJ1I368gsuPkVV/view?usp=sharing).
+
+I recently wrapped up an internship at Meta (formerly Facebook) with their Serverless Computing team. Previously, I have also been involved as a student researcher at Bell Labs research under the supervision of [Thomas Woo](https://www.bell-labs.com/about/researcher-profiles/thomaswoo/#gref).
+
+Before starting my Ph.D., I completed my undergrad from LUMS in 2017 under the supervision of [Prof. Ihsan Ayyub Qazi](https://web.lums.edu.pk/~ihsan/) where my research focused on computer networks and measurement.
+
+## News
+
+- \[Aug 2023] Proteus accepted to ASPLOS 2024! (acceptance rate: 16.2%)
+- \[May 2023] AggFirstJoin won the Best Paper Award at ACM/IEEE CCGrid 2023!
+- \[Aug 2022] I wrapped up my internship at Meta (formerly Facebook) with their Serverless Computing team. Over there, I worked on using elastic compute to process asynchronous computing workloads with varying levels of SLA delay requirements.
+- \[Dec 2021] I presented our paper, AggNet, at the ACM/IEEE Symposium on Edge Computing! You can find the slides [here](https://docs.google.com/presentation/d/1rYKvqSYF6Hzp3akycAFhhCMzwHYDoyhA/edit?usp=sharing&ouid=118429391061954035556&rtpof=true&sd=true). I also presented a [poster version](https://drive.google.com/file/d/1uzl7xuU3iQRNXTVWAooH0tZnhBRe8tmq/view?usp=sharing) of the paper at the conference.
+- \[Dec 2021] I attended the ACM/IEEE Symposium on Edge Computing in San Jose, CA and presented an overview of my dissertation work. You can find it [here](https://docs.google.com/presentation/d/1zpZPCSeoudXF2qEwwm-WJMDjcYV0TUTU/edit?usp=sharing&ouid=118429391061954035556&rtpof=true&sd=true)!
+<!-- - \[Sep 2021] Super excited to share that I will be spending the summer of 2022 as a PhD intern at Facebook! I will be joining their Serverless Computing group in Seattle, and I cannot wait for all the exciting challenges I will get to tackle. -->
+<!-- - \[Aug 2021] I wrapped up my work as a research intern at Bell Labs and am excited to share that I will continue to collaborate with them over the coming year! -->
+<!-- - \[May 2021] I will be spending my summer as a research intern at Bell Labs  -->
+- \[Apr 2021] Our paper "AggNet: Cost-Aware Aggregation Networks for Geo-distributed Streaming Analytics" has been accepted to ACM/IEEE SEC 2021!
+<!-- - \[Aug 2020] I wrapped up my work as a research intern at Bell Labs and am excited to share that I will continue to collaborate with them over the coming year! -->
+<!-- - Our paper "Learning from Optimal: Energy Procurement Strategies for Data Centers" was accepted to ACM e-Energy 2019! I also received a student travel grant to present my work at the conference. -->
+
+News
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- \[Aug 2023] Proteus accepted to ASPLOS 2024! (acceptance rate: 16.2%)
+- \[May 2023] AggFirstJoin won the Best Paper Award at ACM/IEEE CCGrid 2023!
+- \[Aug 2022] I wrapped up my internship at Meta (formerly Facebook) with their Serverless Computing team. Over there, I worked on using elastic compute to process asynchronous computing workloads with varying levels of SLA delay requirements.
+- \[Dec 2021] I presented our paper, AggNet, at the ACM/IEEE Symposium on Edge Computing! You can find the slides [here](https://docs.google.com/presentation/d/1rYKvqSYF6Hzp3akycAFhhCMzwHYDoyhA/edit?usp=sharing&ouid=118429391061954035556&rtpof=true&sd=true). I also presented a [poster version](https://drive.google.com/file/d/1uzl7xuU3iQRNXTVWAooH0tZnhBRe8tmq/view?usp=sharing) of the paper at the conference.
+- \[Dec 2021] I attended the ACM/IEEE Symposium on Edge Computing in San Jose, CA and presented an overview of my dissertation work. You can find it [here](https://docs.google.com/presentation/d/1zpZPCSeoudXF2qEwwm-WJMDjcYV0TUTU/edit?usp=sharing&ouid=118429391061954035556&rtpof=true&sd=true)!
+<!-- - \[Sep 2021] Super excited to share that I will be spending the summer of 2022 as a PhD intern at Facebook! I will be joining their Serverless Computing group in Seattle, and I cannot wait for all the exciting challenges I will get to tackle. -->
+<!-- - \[Aug 2021] I wrapped up my work as a research intern at Bell Labs and am excited to share that I will continue to collaborate with them over the coming year! -->
+<!-- - \[May 2021] I will be spending my summer as a research intern at Bell Labs  -->
+- \[Apr 2021] Our paper "AggNet: Cost-Aware Aggregation Networks for Geo-distributed Streaming Analytics" has been accepted to ACM/IEEE SEC 2021!
+<!-- - \[Aug 2020] I wrapped up my work as a research intern at Bell Labs and am excited to share that I will continue to collaborate with them over the coming year! -->
+<!-- - Our paper "Learning from Optimal: Energy Procurement Strategies for Data Centers" was accepted to ACM e-Energy 2019! I also received a student travel grant to present my work at the conference. -->
 
 Getting started
 ======
