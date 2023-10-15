@@ -18,8 +18,8 @@ Before starting my Ph.D., I completed my undergrad from LUMS in 2017 under the s
 
 ## News
 
-- \[Aug 2023] Our paper, "Proteus: A High-Throughput Inference-Serving System with Accuracy Scaling" has been accepted to ASPLOS 2024! (acceptance rate: 16.2%)
-- \[May 2023] Our paper, AggFirstJoin, won the Best Paper Award at ACM/IEEE CCGrid 2023!
+- \[Aug 2023] Our paper, "Proteus: A High-Throughput Inference-Serving System with Accuracy Scaling" has been accepted to [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/)! (acceptance rate: 16.2%)
+- \[May 2023] Our paper, AggFirstJoin, won the Best Paper Award at [ACM/IEEE CCGrid 2023](https://ccgrid2023.iisc.ac.in/)!
 - \[Aug 2022] I wrapped up my internship at Meta (formerly Facebook) with their Serverless Computing team. Over there, I worked on using elastic compute to process asynchronous computing workloads with varying levels of SLA delay requirements.
 - \[Dec 2021] I presented our paper, AggNet, at the ACM/IEEE Symposium on Edge Computing! You can find the slides [here](https://docs.google.com/presentation/d/1rYKvqSYF6Hzp3akycAFhhCMzwHYDoyhA/edit?usp=sharing&ouid=118429391061954035556&rtpof=true&sd=true). I also presented a [poster version](https://drive.google.com/file/d/1uzl7xuU3iQRNXTVWAooH0tZnhBRe8tmq/view?usp=sharing) of the paper at the conference.
 - \[Dec 2021] I attended the ACM/IEEE Symposium on Edge Computing in San Jose, CA and presented an overview of my dissertation work. You can find it [here](https://docs.google.com/presentation/d/1zpZPCSeoudXF2qEwwm-WJMDjcYV0TUTU/edit?usp=sharing&ouid=118429391061954035556&rtpof=true&sd=true)!
@@ -37,9 +37,8 @@ Before starting my Ph.D., I completed my undergrad from LUMS in 2017 under the s
 - \[2022\] Shadow Program Committee Member for EuroSys
 - \[2022\] Panelist at CS Research Night at UMass
 - \[2018\] Best paper of the year award at ACM SIGCOMM CCR
-- \[2017\]Awarded the Krithi Ramamritham scholarship at UMass Amherst for outstanding incoming student in sytems research
-<!-- - Received the Summer Research Program award at LUMS (2016)
-- Student travel grants at ACM e-Energy 2019, ACM IMC 2016
-- Dean's Honor List at LUMS (2013-17)
--->
+- \[2017\] Awarded the Krithi Ramamritham scholarship at UMass Amherst for outstanding incoming student in sytems research
+<!-- - Received the Summer Research Program award at LUMS (2016) -->
+<!-- - Student travel grants at ACM e-Energy 2019, ACM IMC 2016 -->
+<!-- - Dean's Honor List at LUMS (2013-17) -->
 
