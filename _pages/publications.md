@@ -22,7 +22,7 @@ author_profile: true
 
 
 **Learning from Optimal: Energy Procurement Strategies for Data Centers** \[[PDF](https://groups.cs.umass.edu/ramesh/wp-content/uploads/sites/3/2019/12/Learning-from-Optimal-Energy-Procurement-Strategies-for-Data-Centers.pdf)]
-**Sohaib Ahmad**, Arielle Rosenthal, Mohammad H. Hajiesmaili, Ramesh K. Sitaraman.
+<br> **Sohaib Ahmad**, Arielle Rosenthal, Mohammad H. Hajiesmaili, Ramesh K. Sitaraman.
 <br> in Proceedings of the Tenth ACM International Conference on Future Energy Systems, 2019 ([e-Energy 2019](https://energy.acm.org/conferences/eenergy/2019/))
 
 
