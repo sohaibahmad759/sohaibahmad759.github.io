@@ -30,3 +30,16 @@ Before starting my Ph.D., I completed my undergrad from LUMS in 2017 under the s
 <!-- - \[Aug 2020] I wrapped up my work as a research intern at Bell Labs and am excited to share that I will continue to collaborate with them over the coming year! -->
 <!-- - Our paper "Learning from Optimal: Energy Procurement Strategies for Data Centers" was accepted to ACM e-Energy 2019! I also received a student travel grant to present my work at the conference. -->
 
+## Awards & Service
+
+- \[2023\] Best paper award at ACM/IEEE CCGrid
+- \[2023\] Received the Manning College Dissertation Writing Fellowship
+- \[2022\] Shadow Program Committee Member for EuroSys
+- \[2022\] Panelist at CS Research Night at UMass
+- \[2018\] Best paper of the year award at ACM SIGCOMM CCR
+- \[2017\]Awarded the Krithi Ramamritham scholarship at UMass Amherst for outstanding incoming student in sytems research
+<!-- - Received the Summer Research Program award at LUMS (2016)
+- Student travel grants at ACM e-Energy 2019, ACM IMC 2016
+- Dean's Honor List at LUMS (2013-17)
+-->
+
