@@ -16,22 +16,22 @@ author_profile: true
 <br> Won the **Best Paper Award**!
 
 
-**AggNet: Cost-Aware Aggregation Networks for Geo-distributed Streaming Analytics** \[[PDF](https://groups.cs.umass.edu/ramesh/wp-content/uploads/sites/3/2021/06/sec21-final80.pdf)]
+**\[SEC'21\] AggNet: Cost-Aware Aggregation Networks for Geo-distributed Streaming Analytics** \[[PDF](https://groups.cs.umass.edu/ramesh/wp-content/uploads/sites/3/2021/06/sec21-final80.pdf)]
 <br> Dhruv Kumar, **Sohaib Ahmad**, Abhishek Chandra, Ramesh K. Sitaraman.
 <br> in ACM/IEEE Symposium on Edge Computing 2021 ([SEC 2021](http://acm-ieee-sec.org/2021/)) (acceptance rate: 23.7%)
 
 
-**Learning from Optimal: Energy Procurement Strategies for Data Centers** \[[PDF](https://groups.cs.umass.edu/ramesh/wp-content/uploads/sites/3/2019/12/Learning-from-Optimal-Energy-Procurement-Strategies-for-Data-Centers.pdf)]
+**\[e-Energy'19\] Learning from Optimal: Energy Procurement Strategies for Data Centers** \[[PDF](https://groups.cs.umass.edu/ramesh/wp-content/uploads/sites/3/2019/12/Learning-from-Optimal-Energy-Procurement-Strategies-for-Data-Centers.pdf)]
 <br> **Sohaib Ahmad**, Arielle Rosenthal, Mohammad H. Hajiesmaili, Ramesh K. Sitaraman.
 <br> in Proceedings of the Tenth ACM International Conference on Future Energy Systems, 2019 ([e-Energy 2019](https://energy.acm.org/conferences/eenergy/2019/))
 
 
-**Inside the walled garden: Deconstructing facebook's free basics program** \[[PDF](https://pubs.cs.uct.ac.za/id/eprint/1255/1/sigcomm-ccr-paper115.pdf)]
+**\[SIGCOMM'18\] Inside the walled garden: Deconstructing facebook's free basics program** \[[PDF](https://pubs.cs.uct.ac.za/id/eprint/1255/1/sigcomm-ccr-paper115.pdf)]
 <br> Rijurekha Sen, **Sohaib Ahmad**, Amreesh Phokeer, Zaid Ahmed Farooq, Ihsan Ayyub Qazi, David Choffnes, Krishna P. Gummadi.
 <br> in Conference of the ACM Special Interest Group on Data Communication ([ACM SIGCOMM 2018](https://conferences.sigcomm.org/sigcomm/2018/)) (acceptance rate: 18.18%)   
 
 
-**A view from the other side: Understanding mobile phone characteristics in the developing world** \[[PDF](http://static.cs.brown.edu/people/tab/papers/IMC16.pdf)]
+**\[IMC'18\] A view from the other side: Understanding mobile phone characteristics in the developing world** \[[PDF](http://static.cs.brown.edu/people/tab/papers/IMC16.pdf)]
 <br> **Sohaib Ahmad**, Abdul Lateef Haamid, Zafar Ayyub Qazi, Zhenyu Zhou, Theophilus Benson, Ihsan Ayyub Qazi.
 <br> in Proceedings of the 2016 Internet Measurement Conference ([IMC 2016](http://conferences2.sigcomm.org/imc/2016/)) (acceptance rate: 25%)
 
