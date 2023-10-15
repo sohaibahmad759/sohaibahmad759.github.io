@@ -32,6 +32,6 @@ author_profile: true
 
 
 **A view from the other side: Understanding mobile phone characteristics in the developing world** \[[PDF](http://static.cs.brown.edu/people/tab/papers/IMC16.pdf)]
-**Sohaib Ahmad**, Abdul Lateef Haamid, Zafar Ayyub Qazi, Zhenyu Zhou, Theophilus Benson, Ihsan Ayyub Qazi.
+<br> **Sohaib Ahmad**, Abdul Lateef Haamid, Zafar Ayyub Qazi, Zhenyu Zhou, Theophilus Benson, Ihsan Ayyub Qazi.
 <br> in Proceedings of the 2016 Internet Measurement Conference ([IMC 2016](http://conferences2.sigcomm.org/imc/2016/)) (acceptance rate: 25%)
 
