@@ -14,8 +14,8 @@ author_profile: true
 **\[CCGrid'23\] AggFirstJoin: Optimizing Geo-Distributed Joins using Aggregation-Based Transformations**
 <br> Dhruv Kumar, Sohaib Ahmad, Abhishek Chandra, Ramesh K. Sitaraman.
 <br> in IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing 2023 ([CCGRID 2023](https://ccgrid2023.iisc.ac.in/))
-<!-- (acceptance rate: 21%) -->
 <br> Won the **Best Paper Award**!
+<!-- (acceptance rate: 21%) -->
 
 
 **\[SEC'21\] AggNet: Cost-Aware Aggregation Networks for Geo-distributed Streaming Analytics** \[[PDF](https://groups.cs.umass.edu/ramesh/wp-content/uploads/sites/3/2021/06/sec21-final80.pdf)]
