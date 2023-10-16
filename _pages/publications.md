@@ -34,7 +34,7 @@ author_profile: true
 <br> in Conference of the ACM Special Interest Group on Data Communication ([ACM SIGCOMM 2018](https://conferences.sigcomm.org/sigcomm/2018/))
 <!-- (acceptance rate: 18.18%) -->
 
-**[\SIGMETRICS'17\] An Empirical Analysis of Facebook's Free Basics** (Poster) [[PDF](https://dl.acm.org/doi/pdf/10.1145/3078505.3078554)]
+**\[SIGMETRICS'17\] An Empirical Analysis of Facebook's Free Basics** (Poster) [[PDF](https://dl.acm.org/doi/pdf/10.1145/3078505.3078554)]
 <br> Rijurekha Sen, Siddharth Singh, Vedant Nanda, Sohaib Ahmad, Satadal Sengupta, Amreesh Phokeer, Zaid A. Farooq, Taslim Arefin Khan, Ponnurangam Kumaraguru, Ihsan Ayyub Qazi, David Choffnes, Krishna P. Gummadi
 <br> in Proceedings of the 2017 ACM SIGMETRICS/International Conference on Measurement and Modeling of Computer Systems ([SIGMETRICS 2017](https://www.sigmetrics.org/sigmetrics2017/))
 
