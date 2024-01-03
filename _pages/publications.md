@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**\[ASPLOS'24\] Proteus: A High-Throughput Inference-Serving System with Accuracy Scaling** [[PDF](http://guanh01.github.io/files/2024proteus.pdf)] [[Code](https://github.com/UMass-LIDS/Proteus)]
+**\[ASPLOS'24\] Proteus: A High-Throughput Inference-Serving System with Accuracy Scaling** [[PDF](files/proteus.pdf] [[Code](https://github.com/UMass-LIDS/Proteus)]
 <br> Sohaib Ahmad, Hui Guan, Brain D. Friedman, Thomas Williams, Ramesh K. Sitaraman, Thomas Woo.
 <br> in ACM Conference on Architectural Support for Programming Languages and Operating Systems 2024 ([ASPLOS 2024](https://www.asplos-conference.org/asplos2024/))
 <!-- (acceptance rate: 16.2%) -->
