@@ -16,7 +16,7 @@ Before starting my Ph.D., I completed my undergrad from LUMS in 2017 under the s
 
 ## News
 
-- \[Aug 2023] Our paper, "Proteus: A High-Throughput Inference-Serving System with Accuracy Scaling" has been accepted to [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/)! (acceptance rate: 16.2%)
+- \[Aug 2023] Our paper, "Proteus: A High-Throughput Inference-Serving System with Accuracy Scaling" has been accepted to [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/)!
 - \[May 2023] 🏆 Our paper, AggFirstJoin, won the Best Paper Award at [ACM/IEEE CCGrid 2023](https://ccgrid2023.iisc.ac.in/)!
 - \[Aug 2022] I wrapped up my internship at Meta (formerly Facebook) with their Serverless Computing team. Over there, I worked on using elastic compute to process asynchronous computing workloads with varying levels of SLA delay requirements.
 - \[Dec 2021] I presented our paper, AggNet, at the ACM/IEEE Symposium on Edge Computing! You can find the slides [here](https://docs.google.com/presentation/d/1rYKvqSYF6Hzp3akycAFhhCMzwHYDoyhA/edit?usp=sharing&ouid=118429391061954035556&rtpof=true&sd=true). I also presented a [poster version](https://drive.google.com/file/d/1uzl7xuU3iQRNXTVWAooH0tZnhBRe8tmq/view?usp=sharing) of the paper at the conference.
