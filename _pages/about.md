@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Computer Science Ph.D. student at the University of Massachusetts, Amherst working under the supervision of [Prof. Ramesh Sitaraman](https://groups.cs.umass.edu/ramesh/) and [Prof. Hui Guan](https://guanh01.github.io/). My research lies at the intersection of systems and machine learning: I use machine learning to improve the performance of computer systems, and use my systems knowledge to improve the performance of machine learning algorithms. I build theoretical models to represent distributed data processing systems, and use the models to improve the performance and efficiency of those systems.
 
-I recently wrapped up an internship at Meta (formerly Facebook) with their Serverless Computing team. Previously, I have been a Research Intern at Bell Labs research twice to work on scheduling and resource allocation for ML inference and training workloads on the cloud and edge.
+I recently wrapped up an internship at Meta (formerly Facebook) with their Serverless Computing team. Previously, I have been a Research Intern at Bell Labs research twice to work on scheduling and resource allocation for ML inference serving (also called model serving) and training on the cloud and edge.
 
 Before starting my Ph.D., I completed my undergrad from LUMS in 2017 under the supervision of [Prof. Ihsan Ayyub Qazi](https://web.lums.edu.pk/~ihsan/) where my research focused on computer networks and measurement.
 
