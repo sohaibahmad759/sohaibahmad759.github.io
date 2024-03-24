@@ -16,15 +16,16 @@ Before starting my Ph.D., I completed my undergrad from LUMS in 2017 under the s
 
 ## News
 
+- \[Mar 2024] Our paper, "Loki: A System for Serving ML Inference Pipelines with Hardware and Accuracy Scaling" has been accepted to [HPDC 2024](https://www.hpdc.org/2024/)!
 - \[Aug 2023] Our paper, "Proteus: A High-Throughput Inference-Serving System with Accuracy Scaling" has been accepted to [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/)!
 - \[May 2023] 🏆 Our paper, AggFirstJoin, won the Best Paper Award at [ACM/IEEE CCGrid 2023](https://ccgrid2023.iisc.ac.in/)!
 - \[Aug 2022] I wrapped up my internship at Meta (formerly Facebook) with their Serverless Computing team. Over there, I worked on using elastic compute to process asynchronous computing workloads with varying levels of SLA delay requirements.
-- \[Dec 2021] I presented our paper, AggNet, at the ACM/IEEE Symposium on Edge Computing! You can find the slides [here](https://docs.google.com/presentation/d/1rYKvqSYF6Hzp3akycAFhhCMzwHYDoyhA/edit?usp=sharing&ouid=118429391061954035556&rtpof=true&sd=true). I also presented a [poster version](https://drive.google.com/file/d/1uzl7xuU3iQRNXTVWAooH0tZnhBRe8tmq/view?usp=sharing) of the paper at the conference.
+<!-- - \[Dec 2021] I presented our paper, AggNet, at the ACM/IEEE Symposium on Edge Computing! You can find the slides [here](https://docs.google.com/presentation/d/1rYKvqSYF6Hzp3akycAFhhCMzwHYDoyhA/edit?usp=sharing&ouid=118429391061954035556&rtpof=true&sd=true). I also presented a [poster version](https://drive.google.com/file/d/1uzl7xuU3iQRNXTVWAooH0tZnhBRe8tmq/view?usp=sharing) of the paper at the conference. -->
 - \[Dec 2021] I attended the ACM/IEEE Symposium on Edge Computing in San Jose, CA and presented an overview of my dissertation work. You can find it [here](https://docs.google.com/presentation/d/1zpZPCSeoudXF2qEwwm-WJMDjcYV0TUTU/edit?usp=sharing&ouid=118429391061954035556&rtpof=true&sd=true)!
 
 <!-- - \[Sep 2021] Super excited to share that I will be spending the summer of 2022 as a PhD intern at Facebook! I will be joining their Serverless Computing group in Seattle, and I cannot wait for all the exciting challenges I will get to tackle. -->
 <!-- - \[May 2021] I will be spending my summer as a research intern at Bell Labs  -->
-- \[Apr 2021] Our paper "AggNet: Cost-Aware Aggregation Networks for Geo-distributed Streaming Analytics" has been accepted to ACM/IEEE SEC 2021!
+<!-- - \[Apr 2021] Our paper "AggNet: Cost-Aware Aggregation Networks for Geo-distributed Streaming Analytics" has been accepted to ACM/IEEE SEC 2021! -->
 <!-- - \[Aug 2020] I wrapped up my work as a research intern at Bell Labs and am excited to share that I will continue to collaborate with them over the coming year! -->
 <!-- - Our paper "Learning from Optimal: Energy Procurement Strategies for Data Centers" was accepted to ACM e-Energy 2019! I also received a student travel grant to present my work at the conference. -->
 
