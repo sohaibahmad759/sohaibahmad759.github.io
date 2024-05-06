@@ -5,9 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+**\[HPDC'24\] Loki: A System for Serving ML Inference Pipelines with Hardware and Accuracy Scaling** [[PDF](https://sohaibahmad759.github.io/files/loki_hpdc24.pdf)]
+<br> Sohaib Ahmad, Hui Guan, Ramesh K. Sitaraman.
+<br> in The 33rd International Symposium on High-Performance Parallel and Distributed
+Computing ([HPDC 2024](https://www.hpdc.org/2024/))
+<!-- (acceptance rate: 17%) -->
+
 **\[ASPLOS'24\] Proteus: A High-Throughput Inference-Serving System with Accuracy Scaling** [[PDF](https://sohaibahmad759.github.io/files/proteus.pdf)] [[Code](https://github.com/UMass-LIDS/Proteus)]
 <br> Sohaib Ahmad, Hui Guan, Brain D. Friedman, Thomas Williams, Ramesh K. Sitaraman, Thomas Woo.
-<br> in ACM Conference on Architectural Support for Programming Languages and Operating Systems 2024 ([ASPLOS 2024](https://www.asplos-conference.org/asplos2024/))
+<br> in The 29th ACM Conference on Architectural Support for Programming Languages and Operating Systems, Volume 1 ([ASPLOS 2024](https://www.asplos-conference.org/asplos2024/))
 <!-- (acceptance rate: 16.2%) -->
 
 
