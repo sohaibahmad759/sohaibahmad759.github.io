@@ -14,7 +14,7 @@ Computing ([HPDC 2024](https://www.hpdc.org/2024/))
 **\[ASPLOS'24\] Proteus: A High-Throughput Inference-Serving System with Accuracy Scaling** [[PDF](https://sohaibahmad759.github.io/files/proteus.pdf)] [[Code](https://github.com/UMass-LIDS/Proteus)] [[Slides](https://sohaibahmad759.github.io/files/proteus_asplos24_talk.pptx)]
 <br> Sohaib Ahmad, Hui Guan, Brain D. Friedman, Thomas Williams, Ramesh K. Sitaraman, Thomas Woo.
 <br> in 29th ACM Conference on Architectural Support for Programming Languages and Operating Systems, Volume 1 ([ASPLOS 2024](https://www.asplos-conference.org/asplos2024/))
-<br>(acceptance rate: 16.2%)
+<br> <!-- (acceptance rate: 16.2%) -->
 
 
 **\[CCGrid'23\] AggFirstJoin: Optimizing Geo-Distributed Joins using Aggregation-Based Transformations**
