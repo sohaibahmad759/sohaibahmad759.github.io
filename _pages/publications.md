@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+\[**MLSys**\] **DiffServe: Efficiently Serving Text-to-Image Diffusion Models with Query-Aware Model Scaling**
+<br> Sohaib Ahmad, Qizheng Yang, Haoliang Wang, Ramesh K. Sitaraman, Hui Guan.
+<br> *The Eighth Annual Conference on Machine Learning and Systems
+Computing* ([MLSys 2025](https://mlsys.org/Conferences/2025))
+
 \[**HPDC**\] **Loki: A System for Serving ML Inference Pipelines with Hardware and Accuracy Scaling** [[PDF](https://sohaibahmad759.github.io/files/loki_hpdc24.pdf)]
 <br> Sohaib Ahmad, Hui Guan, Ramesh K. Sitaraman.
 <br> *33rd International Symposium on High-Performance Parallel and Distributed
