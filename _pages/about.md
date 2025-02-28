@@ -12,7 +12,7 @@ I am a Research Scientist at Meta working in the Facebook Stories Infrastructure
 
 I recently completed my Ph.D. at the University of Massachusetts, Amherst working under the supervision of [Prof. Ramesh Sitaraman](https://groups.cs.umass.edu/ramesh/) and [Prof. Hui Guan](https://guanh01.github.io/). My research interests lie at the intersection of systems and machine learning, particularly improving the resource efficiency of ML inference and model serving. As the demand for ML grows at a much faster rate than the underlying infrastructure to host and serve it, my research aims to improve the efficiency of existing infrastructure to serve this growing demand, through intelligent resource allocation and workload scheduling. <!-- I use machine learning to improve the performance of computer systems, and use my systems knowledge to improve the performance of machine learning algorithms. I build theoretical models to represent distributed data processing systems, and use the models to improve the performance and efficiency of those systems. -->
 
-During my Ph.D., worked as an intern at Meta (formerly Facebook) with their Serverless Computing team. I also interned with Bell Labs research twice to work on scheduling and resource allocation for ML model serving and training on the cloud and edge.
+During my Ph.D., I interned at Meta with their Serverless Computing team. I also interned with Bell Labs research twice to work on scheduling and resource allocation for ML model serving and training on the cloud and edge.
 
 Before starting my Ph.D., I completed my undergrad from LUMS in 2017 under the supervision of [Prof. Ihsan Ayyub Qazi](https://web.lums.edu.pk/~ihsan/) where my research focused on computer networks and measurement.
 
